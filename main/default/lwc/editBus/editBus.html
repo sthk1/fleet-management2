@@ -1,0 +1,35 @@
+<template>
+    <lightning-card title="Edit Bus Details" >
+        <template if:true={recordId}>
+    <lightning-tile>
+            <lightning-record-edit-form onsuccess={handleSuccess} object-api-name="Bus__c" record-id={recordId} >
+        <div class="slds-var-m-around_medium" style="border:1px solid black">
+                <lightning-messages></lightning-messages>
+                <lightning-input-field field-name={nameField} ></lightning-input-field>
+                <lightning-input-field field-name={yearField} ></lightning-input-field>
+                <lightning-input-field field-name={statusField} ></lightning-input-field>
+                <lightning-input-field field-name={acField} ></lightning-input-field>
+                <lightning-input-field field-name={capField} ></lightning-input-field>
+                <lightning-input-field field-name={wheelsField} ></lightning-input-field>
+                <lightning-input-field field-name={odoField} ></lightning-input-field>
+                <div class="slds-var-m-top_medium">
+                    <lightning-button class="slds-m-top_small" type="submit" label="Save"></lightning-button>
+                    <lightning-button class="slds-m-top_small" label="Cancel" onclick={handleReset}></lightning-button>
+                    
+                </div>
+        </div>
+        <div class="slds-var-m-around_medium" style="border:1px solid black">
+            <lightning-output-field field-name={rsaleField}></lightning-output-field>
+        </div>
+            </lightning-record-edit-form>
+    </lightning-tile>
+        </template>
+        <template if:false={recordId}>
+    <lightning-tile>
+             <div  class="slds-var-m-around_medium">
+            <h1>Please select a bus to view and edit details</h1>
+             </div>
+    </lightning-tile>
+        </template>
+    </lightning-card>
+</template>

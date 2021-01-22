@@ -1,0 +1,11 @@
+<template>
+        <template if:true={buses}>
+            <div class="slds-grid slds-wrap slds-gutters">
+            <template for:each={buses.data} for:item="bus">
+                <div class="slds-size_1-of-4 slds-col slds-p-around_medium" key={bus.Id}>
+                    <c-bus-tile bus={bus}> </c-bus-tile>
+                </div>
+            </template>
+            </div>
+       </template>
+</template>
