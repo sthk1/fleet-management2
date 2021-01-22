@@ -1,0 +1,169 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef1"
+            },
+            "Braking_Fluid_Level__c": 75,
+            "Oil_Level__c": 95,
+            "Recorded_Odometer__c": 5432,
+            "Schedule_Reason__c": "Routine maintenance",
+            "Schedule_Time__c": "2021-01-01T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "All tires close to 90% tread"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef2"
+            },
+            "Braking_Fluid_Level__c": 90,
+            "Oil_Level__c": 85,
+            "Recorded_Odometer__c": 20134,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2021-01-01T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Good"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef3"
+            },
+            "Braking_Fluid_Level__c": 80,
+            "Oil_Level__c": 75,
+            "Recorded_Odometer__c": 105876,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2020-11-17T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Fair"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef4"
+            },
+            "Braking_Fluid_Level__c": 85,
+            "Oil_Level__c": 70,
+            "Recorded_Odometer__c": 780098,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2020-11-03T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Reasonable"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef5"
+            },
+            "Braking_Fluid_Level__c": 87,
+            "Oil_Level__c": 90,
+            "Recorded_Odometer__c": 60100,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2020-12-08T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Good"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef6"
+            },
+            "Braking_Fluid_Level__c": 80,
+            "Oil_Level__c": 90,
+            "Recorded_Odometer__c": 30987,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2020-11-18T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Excellent"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef7"
+            },
+            "Braking_Fluid_Level__c": 90,
+            "Oil_Level__c": 87,
+            "Recorded_Odometer__c": 85087,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2020-11-24T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Good"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef8"
+            },
+            "Braking_Fluid_Level__c": 85,
+            "Oil_Level__c": 90,
+            "Recorded_Odometer__c": 10098,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2021-01-06T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Good"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef9"
+            },
+            "Braking_Fluid_Level__c": 80,
+            "Oil_Level__c": 95,
+            "Recorded_Odometer__c": 25098,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2020-11-10T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Fair"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef10"
+            },
+            "Braking_Fluid_Level__c": 90,
+            "Oil_Level__c": 80,
+            "Recorded_Odometer__c": 70875,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2020-10-30T19:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Good"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef11"
+            },
+            "Braking_Fluid_Level__c": 80,
+            "Oil_Level__c": 90,
+            "Recorded_Odometer__c": 10023,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2021-01-08T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Good"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef12"
+            },
+            "Braking_Fluid_Level__c": 80,
+            "Oil_Level__c": 90,
+            "Recorded_Odometer__c": 5098,
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2020-11-09T20:00:00.000+0000",
+            "Status__c": "Completed",
+            "Tire_Conditions__c": "Good"
+        },
+        {
+            "attributes": {
+                "type": "Maintenance_Record__c",
+                "referenceId": "Maintenance_Record__cRef13"
+            },
+            "Schedule_Reason__c": "Routine Maintenance",
+            "Schedule_Time__c": "2021-01-22T14:14:37.000+0000",
+            "Status__c": "Scheduled"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage__cRef1"
+            },
+            "Location__Latitude__s": 40.43,
+            "Location__Longitude__s": -74.37,
+            "Name": "Garage #1"
+        },
+        {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage__cRef2"
+            },
+            "Location__Latitude__s": 40.72,
+            "Location__Longitude__s": -74.07,
+            "Name": "Garage #2"
+        }
+    ]
+}
