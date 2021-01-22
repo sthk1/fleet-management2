@@ -1,0 +1,208 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef1"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": true,
+            "Image_Static_Resource__c": "Bus1",
+            "Last_Ping_Location__Latitude__s": 40.75,
+            "Last_Ping_Location__Longitude__s": -74.01,
+            "Maximum_Capacity__c": "6",
+            "Name": "XF-316",
+            "Number_of_Wheels__c": 6,
+            "Odometer_reading__c": 12000,
+            "Resale_Value__c": "61800.00",
+            "Year__c": "2015"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef2"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": true,
+            "Image_Static_Resource__c": "Bus2",
+            "Last_Ping_Location__Latitude__s": 40.33,
+            "Last_Ping_Location__Longitude__s": -74.26,
+            "Maximum_Capacity__c": "6",
+            "Name": "AB-988",
+            "Number_of_Wheels__c": 6,
+            "Odometer_reading__c": 10345,
+            "Resale_Value__c": "61800.00",
+            "Year__c": "2019"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef3"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": true,
+            "Image_Static_Resource__c": "Bus11",
+            "Last_Ping_Location__Latitude__s": 40.5,
+            "Last_Ping_Location__Longitude__s": -74.2,
+            "Maximum_Capacity__c": "6",
+            "Name": "TR-876",
+            "Number_of_Wheels__c": 4,
+            "Odometer_reading__c": 12000,
+            "Resale_Value__c": "61800.00",
+            "Year__c": "2016"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef4"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": true,
+            "Image_Static_Resource__c": "Bus12",
+            "Last_Ping_Location__Latitude__s": 40.65,
+            "Last_Ping_Location__Longitude__s": -74.27,
+            "Maximum_Capacity__c": "12",
+            "Name": "ZQ-418",
+            "Number_of_Wheels__c": 6,
+            "Odometer_reading__c": 10561,
+            "Resale_Value__c": "N/A",
+            "Year__c": "2019"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef5"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": false,
+            "Image_Static_Resource__c": "Bus3",
+            "Last_Ping_Location__Latitude__s": 40.6,
+            "Last_Ping_Location__Longitude__s": -74.1,
+            "Maximum_Capacity__c": "24",
+            "Name": "FR-862",
+            "Number_of_Wheels__c": 8,
+            "Odometer_reading__c": 109785,
+            "Resale_Value__c": "119021.50",
+            "Year__c": "2010"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef6"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": true,
+            "Image_Static_Resource__c": "Bus4",
+            "Last_Ping_Location__Latitude__s": 40.56,
+            "Last_Ping_Location__Longitude__s": -74.4,
+            "Maximum_Capacity__c": "36",
+            "Name": "QA-071",
+            "Number_of_Wheels__c": 10,
+            "Odometer_reading__c": 87654,
+            "Resale_Value__c": "219200.00",
+            "Year__c": "1971"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef7"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": false,
+            "Image_Static_Resource__c": "Bus5",
+            "Last_Ping_Location__Latitude__s": 40.4,
+            "Last_Ping_Location__Longitude__s": -74.4,
+            "Maximum_Capacity__c": "60",
+            "Name": "UT-175",
+            "Number_of_Wheels__c": 12,
+            "Odometer_reading__c": 75393,
+            "Resale_Value__c": "N/A",
+            "Year__c": "2012"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef8"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": true,
+            "Image_Static_Resource__c": "Bus6",
+            "Last_Ping_Location__Latitude__s": 40.3,
+            "Last_Ping_Location__Longitude__s": -74.34,
+            "Maximum_Capacity__c": "6",
+            "Name": "KL-629",
+            "Number_of_Wheels__c": 4,
+            "Odometer_reading__c": 65294,
+            "Resale_Value__c": "N/A",
+            "Year__c": "2013"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef9"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": false,
+            "Image_Static_Resource__c": "Bus7",
+            "Last_Ping_Location__Latitude__s": -40.56,
+            "Last_Ping_Location__Longitude__s": -74.2,
+            "Maximum_Capacity__c": "12",
+            "Name": "MS-874",
+            "Number_of_Wheels__c": 6,
+            "Odometer_reading__c": 34928,
+            "Resale_Value__c": "80000.00",
+            "Year__c": "2014"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef10"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": true,
+            "Image_Static_Resource__c": "Bus8",
+            "Last_Ping_Location__Latitude__s": 40.7,
+            "Last_Ping_Location__Longitude__s": -74.4,
+            "Maximum_Capacity__c": "24",
+            "Name": "RT-893",
+            "Number_of_Wheels__c": 8,
+            "Odometer_reading__c": 29765,
+            "Resale_Value__c": "164400.00",
+            "Year__c": "1970"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef11"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": false,
+            "Image_Static_Resource__c": "Bus9",
+            "Last_Ping_Location__Latitude__s": 40.83,
+            "Last_Ping_Location__Longitude__s": -74.4,
+            "Maximum_Capacity__c": "36",
+            "Name": "EC-238",
+            "Number_of_Wheels__c": 10,
+            "Odometer_reading__c": 23456,
+            "Resale_Value__c": "160000.00",
+            "Year__c": "2016"
+        },
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus__cRef12"
+            },
+            "Current_Status__c": "Ready For Use",
+            "Has_A_C__c": true,
+            "Image_Static_Resource__c": "Bus10",
+            "Last_Ping_Location__Latitude__s": 40.2,
+            "Last_Ping_Location__Longitude__s": -74.01,
+            "Maximum_Capacity__c": "60",
+            "Name": "JH-624",
+            "Number_of_Wheels__c": 12,
+            "Odometer_reading__c": 786432,
+            "Resale_Value__c": "N/A",
+            "Year__c": "1971"
+        }
+    ]
+}
